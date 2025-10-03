@@ -53,7 +53,7 @@
                     "bestVendorId" : "PROLIA",
                     "vendorName" : "PROLIA National Payer Tool",
                     "confidenceScore" : "0.85",
-                    "justification" : "Best vendor for Medicaid"
+                    "justification" : "Best vendor for Medicaid",
                     "statusCode": "1"
                 },
                 {
@@ -61,7 +61,7 @@
                     "bestVendorId" : "AVSOLA",
                     "vendorName" : "AVSOLA National Payer Tool",
                     "confidenceScore" : "0.80",
-                    "justification" : "Best vendor for other Plans"
+                    "justification" : "Best vendor for other Plans",
                     "statusCode": "1"
                 }
             ]
