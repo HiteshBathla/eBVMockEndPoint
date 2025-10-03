@@ -41,13 +41,30 @@
             "VendorDecision" : 1,
             "VendorDetail" : [
                 {
+                    "memberPlan" : "Medicare",
                     "bestVendorId" : "EVENITY",
-                    "vendorName" : "EVENITY National Payer",
+                    "vendorName" : "EVENITY National Payer Tool",
                     "confidenceScore" : "0.95",
-                    "justification" : "Best vendor for Medicare"
+                    "justification" : "Best vendor for Medicare",
+                    "statusCode": "1"
+                },
+                {
+                    "memberPlan" : "Medicaid",
+                    "bestVendorId" : "PROLIA",
+                    "vendorName" : "PROLIA National Payer Tool",
+                    "confidenceScore" : "0.85",
+                    "justification" : "Best vendor for Medicaid"
+                    "statusCode": "1"
+                },
+                {
+                    "memberPlan" : "Commercial",
+                    "bestVendorId" : "AVSOLA",
+                    "vendorName" : "AVSOLA National Payer Tool",
+                    "confidenceScore" : "0.80",
+                    "justification" : "Best vendor for other Plans"
+                    "statusCode": "1"
                 }
-            ],
-            "statusCode": "1"
+            ]
         }
     ]
 }    
