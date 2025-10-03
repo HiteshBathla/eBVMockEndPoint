@@ -41,10 +41,10 @@
             "VendorDecision" : 1,
             "VendorDetail" : [
                 {
-                    "bestVendorId" : "",
-                    "vendorName" : "",
-                    "confidenceScore" : "",
-                    "justification" : ""
+                    "bestVendorId" : "EVENITY",
+                    "vendorName" : "EVENITY National Payer",
+                    "confidenceScore" : "0.95",
+                    "justification" : "Best vendor for Medicare"
                 }
             ],
             "statusCode": "1"
