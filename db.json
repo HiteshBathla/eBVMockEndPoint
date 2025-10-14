@@ -42,24 +42,24 @@
             "VendorDetail" : [
                 {
                     "memberPlan" : "Medicare",
-                    "bestVendorId" : "EVENITY",
-                    "vendorName" : "EVENITY National Payer Tool",
+                    "bestVendorId" : "Aetna",
+                    "vendorName" : "Aetna Better Health",
                     "confidenceScore" : "0.95",
                     "justification" : "Best vendor for Medicare",
                     "statusCode": "1"
                 },
                 {
                     "memberPlan" : "Medicaid",
-                    "bestVendorId" : "PROLIA",
-                    "vendorName" : "PROLIA National Payer Tool",
+                    "bestVendorId" : "Aftra",
+                    "vendorName" : "Aftra Health Retirement Fund",
                     "confidenceScore" : "0.85",
                     "justification" : "Best vendor for Medicaid",
                     "statusCode": "1"
                 },
                 {
                     "memberPlan" : "Commercial",
-                    "bestVendorId" : "AVSOLA",
-                    "vendorName" : "AVSOLA National Payer Tool",
+                    "bestVendorId" : "Alicare",
+                    "vendorName" : "Alicare",
                     "confidenceScore" : "0.80",
                     "justification" : "Best vendor for other Plans",
                     "statusCode": "1"
