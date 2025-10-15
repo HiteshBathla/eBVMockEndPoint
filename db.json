@@ -45,7 +45,7 @@
                     "bestVendorId" : "Aetna",
                     "vendorName" : "Aetna Better Health",
                     "confidenceScore" : "0.95",
-                    "justification" : "Best vendor for Medicare",
+                    "justification" : "Best vendor for Medicare Plan",
                     "statusCode": "1"
                 },
                 {
@@ -53,7 +53,7 @@
                     "bestVendorId" : "Aftra",
                     "vendorName" : "Aftra Health Retirement Fund",
                     "confidenceScore" : "0.85",
-                    "justification" : "Best vendor for Medicaid",
+                    "justification" : "Best vendor for Medicaid Plan",
                     "statusCode": "1"
                 },
                 {
@@ -61,7 +61,7 @@
                     "bestVendorId" : "Alicare",
                     "vendorName" : "Alicare",
                     "confidenceScore" : "0.80",
-                    "justification" : "Best vendor for Commercial",
+                    "justification" : "Best vendor for Commercial Plan",
                     "statusCode": "1"
                 }
             ]
