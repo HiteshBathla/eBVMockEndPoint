@@ -8,7 +8,7 @@
                 "serviceTypeCodes": [
                     "30"
                 ],
-                "status": "Active Coverage",
+                "status": "Benefit verification has been completed & approved",
                 "statusCode": "1"
                 },
                 {
@@ -24,14 +24,14 @@
                     "BB",
                     "22"
                 ],
-                "status": "Active Coverage",
+                "status": "Benefit verification has been completed & approved",
                 "statusCode": "1"
                 },
                 {
                 "serviceTypeCodes": [
                     "MH"
                 ],
-                "status": "Active Coverage",
+                "status": "Benefit verification has been completed & approved",
                 "statusCode": "1"
                 }
             ]
@@ -44,7 +44,7 @@
                 "serviceTypeCodes": [
                     "30"
                 ],
-                "status": "Inactive Coverage",
+                "status": "BV process has been completed & rejected due to Inactive Coverage",
                 "statusCode": "1"
                 }
              ]
