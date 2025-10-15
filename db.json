@@ -61,7 +61,7 @@
                     "bestVendorId" : "Alicare",
                     "vendorName" : "Alicare",
                     "confidenceScore" : "0.80",
-                    "justification" : "Best vendor for other Plans",
+                    "justification" : "Best vendor for Commercial",
                     "statusCode": "1"
                 }
             ]
