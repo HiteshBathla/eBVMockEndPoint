@@ -37,6 +37,19 @@
             ]
         },
         {
+            "id": 7631,
+             "planStatus": [
+                  {
+                "planDetails": "Open Access Plus",
+                "serviceTypeCodes": [
+                    "30"
+                ],
+                "status": "Inactive Coverage",
+                "statusCode": "1"
+                }
+             ]
+        },
+        {
             "id" : 9001,
             "VendorDecision" : 1,
             "VendorDetail" : [
